@@ -8,9 +8,9 @@ The code in this folder represents a simple backend to generate identity tokens 
 
 You will also need to define the following ENV variables:
 
-* `layer_provider_id` - Provider ID found in the Layer Dashboard under "Authentication"
-* `layer_key_id` - Public key generated and stored in the Layer Dashboard under "Authentication"
-* `layer_private_key` - Private key associated with the public key
+* `LAYER_PROVIDER_ID` - Provider ID found in the Layer Dashboard under "Authentication"
+* `LAYER_KEY_ID` - Public key generated and stored in the Layer Dashboard under "Authentication"
+* `LAYER_PRIVATE_KEY` - Private key associated with the public key
 
 
 ###Output:
